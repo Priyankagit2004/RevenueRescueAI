@@ -20,9 +20,6 @@ recovery activity through an audit trail.
 **[Watch the 5-Minute Pitch
 Video](https://drive.google.com/file/d/1ns43nbEMCbDH-cacHPn7nImrKP2Zae7L/view?usp=drive_link)**
 
-Make sure the Google Drive file sharing permission is **Anyone with the
-link → Viewer** before submitting.
-
 ------------------------------------------------------------------------
 
 ## 🚀 Overview
